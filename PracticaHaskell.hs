@@ -97,8 +97,6 @@ inserta x (y:ys)
 
 --Ejercicio Nº 13: Calcular la suma de dos matrices.
 
---Solución 1: Más Simple
-
 sumaMatrices :: (Integral a) => [[a]] -> [[a]] -> [[a]]
 sumaMatrices [] [] = []
 sumaMatrices (x:xs) (y:ys) = zipWith (+) x y : sumaMatrices xs ys
