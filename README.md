@@ -18,6 +18,7 @@ Este repositorio contiene la resolución de **casos prácticos** planteados en l
    git clone https://github.com/tuusuario/haskell-ejercicios.git
 
 2️⃣ Abre el archivo ejercicios.hs en un editor compatible con Haskell (VS Code, GHCi, Haskell Platform).
+
 3️⃣ Ejecuta los ejercicios en un intérprete de Haskell con
 
 ghci PracticaHaskell.hs
