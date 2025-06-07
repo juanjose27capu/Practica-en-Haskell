@@ -3,14 +3,13 @@
 Este repositorio contiene la resolución de **casos prácticos** planteados en la cátedra de **Haskell**, con un enfoque en programación funcional y estructuras de datos específicas del lenguaje.  
 
 📂 **Estructura del repositorio**  
-✔️ `ejercicios.hs` → Archivo único con las resoluciones de los ejercicios planteados en el PDF adjunto.  
-✔️ `casos_practicos.pdf` → Documento con los enunciados de cada problema.  
-✔️ `funciones_predefinidas.pdf` → Referencia de funciones útiles para el desarrollo en Haskell.  
+✔️ `PracticaHaskell.hs` → Archivo único con las resoluciones de los ejercicios planteados en el PDF adjunto.  
+✔️ `Practica Haskell.pdf` → Documento con los enunciados de cada problema.  
+✔️ `funciones haskell.pdf` → Referencia de funciones útiles para el desarrollo en Haskell.  
 
 ## 🚀 **Sobre los ejercicios**  
 🔹 Implementaciones en **Haskell puro**, aprovechando funciones de alto orden y recursión.  
-🔹 Algunos ejercicios pueden requerir revisión o mejoras en eficiencia.  
-🔹 Código modular y estructurado, facilitando la lectura y comprensión.  
+🔹 Algunos ejercicios pueden requerir revisión o mejoras en eficiencia.   
 
 ## 🛠 **Cómo usar el archivo**  
 1️⃣ Descarga o clona el repositorio con:  
