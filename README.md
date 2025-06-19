@@ -14,7 +14,7 @@ Este repositorio contiene la resolución de **casos prácticos** planteados en l
 ## 🛠 **Cómo usar el archivo**  
 1️⃣ Descarga o clona el repositorio con:  
 
-   git clone https://github.com/juanjose27capu/haskell-ejercicios.git
+   git clone https://github.com/juanjose27capu/Practica-en-Haskell.git
 
 2️⃣ Abre el archivo ejercicios.hs en un editor compatible con Haskell (VS Code, GHCi, Haskell Platform).
 
